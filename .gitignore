@@ -1,0 +1,4 @@
+/Recursos
+*.pdf
+*.zip
+!Actividad_DIU1*.pdf
